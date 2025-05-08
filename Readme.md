@@ -1,5 +1,8 @@
-An intelligent music recommendation system built using machine learning that predicts and recommends music tailored to individual user preferences.
+# 🎵 Intelligent Music Recommendation System
 
+An intelligent music recommendation system built using machine learning that predicts and recommends songs tailored to individual user preferences.
+
+---
 
 ## 🚀 Features
 
