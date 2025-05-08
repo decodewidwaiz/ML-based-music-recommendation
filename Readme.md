@@ -20,5 +20,8 @@ An intelligent music recommendation system built using machine learning that pre
 - **Streamlit** for user interface
 - **Jupyter Notebooks** for experimentation
 
-## 🛠️ Video representation
+## 🎥 Video representation
  [Watch the Demo Video]( https://drive.google.com/drive/folders/1_XUNbOTpDZSG_zAJSG4Q_Ft87NUzkWCB?usp=sharing)
+ 
+## 📊 Dataset
+The model is trained on the [Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset/data) available on Kaggle.
