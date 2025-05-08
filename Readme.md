@@ -18,5 +18,4 @@ An intelligent music recommendation system built using machine learning that pre
 - **Jupyter Notebooks** for experimentation
 
 ## 🛠️ Video representation
-<h3>Video link:</h3>
- <a href="https://drive.google.com/drive/folders/1_XUNbOTpDZSG_zAJSG4Q_Ft87NUzkWCB?usp=sharing"></a>
+ [Watch the Demo Video]( https://drive.google.com/drive/folders/1_XUNbOTpDZSG_zAJSG4Q_Ft87NUzkWCB?usp=sharing)
